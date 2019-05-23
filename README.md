@@ -16,3 +16,6 @@ sanctus est Lorem ipsum dolor sit amet.
 ## Change coming in with Feature-Branch
 
 Addes some text in demo-feature-branch
+
+## workshop Update
+Was machen wir heute mittag?
